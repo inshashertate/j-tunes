@@ -1,2 +1,2 @@
 # j-tunes
-1st projest 
+1st project 
